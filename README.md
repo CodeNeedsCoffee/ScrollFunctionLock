@@ -9,3 +9,6 @@ Install & log into Razer Synapse on your PC. Download the latest release and ext
 
 ## Usage
 Tap the scr lck key to swap between profiles. The FunctionLock profile will use the function keys rahter than the initial programmed shortcuts. The Normal profile will use normal key functionality.
+
+## Notes
+Razer has now added built in functionality that lets you the "FN" and "ESC" keys to toggle the behavior of the funtion keys. For those like myself and want an easy singular action, you can still use this method. 
