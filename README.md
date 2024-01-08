@@ -1,6 +1,8 @@
 # ScrollFunctionLock
 Function Lock Simulation for Razer Pro Type Ultra
 
+  <img src='https://img.shields.io/badge/Tested_Synapse_Version-3.8.1231.120811-green' />
+
 ## Purpose
 The Razer Pro Type Ultra lacks the ability to "Function Lock" or to switch the default usage on the function keys. I've created two profiles and used the Scroll lock as a profile switcher to simulate the use of a Function Lock.
 
