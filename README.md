@@ -1,3 +1,8 @@
+# Archived
+This project is being archived due to moving to PowerToys and no longer using Razer Synapse. This package should continue to work but may break due to Razer Updates.
+![{0A1E81A9-6EF4-4B4F-AD90-0AF2584205B3}](https://github.com/user-attachments/assets/c8a5746f-efa3-42fb-979e-cf44821f8976)
+
+
 # ScrollFunctionLock
 Function Lock Simulation for Razer Pro Type Ultra
 
